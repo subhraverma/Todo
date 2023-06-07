@@ -1,0 +1,53 @@
+.App {
+
+ 
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.input-outer{
+  padding-top: 50px;
+  padding-left: 50px;
+
+}
+
+ .input-box{
+  height: 30px;
+ width:250px;
+ font-size: 18px;
+ padding-left: 10px;
+color: rgb(72, 3, 3);
+border-radius: 5px;
+border:2px solid rgb(112, 42, 42);
+ }
+ .btn-type{
+  background-color: rgb(112, 42, 42);
+  border: 1px solid rgb(112, 42, 42);
+  color: whitesmoke;
+  height: 35px;
+  width: 35px;
+  font-size: 20px;
+  padding-top: 3px;
+ margin-left: 10px;
+  border-radius: 50px;
+ }
+ .outer{
+  margin-left: 40px;
+  width: 500px;
+  background-color:rgb(129, 59, 59);
+  border-radius: 5px;
+}
+.item{
+  color: whitesmoke;
+  font-size:15px;
+  line-height: 50px;
+  text-align: center;
+ 
+}
+
+.icon{
+padding-left: 380px;
+}
